@@ -12,6 +12,7 @@ This python program will take a DNA sequance in FASTA format as input and
  -Print output in terminal
 """
 
+# make executable in terminal by "chmod a+x nameOfFile.py"
 
 # Ask the user for an input and store it as a variable
 #get DNA sequence:

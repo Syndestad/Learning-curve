@@ -12,7 +12,7 @@
 ## -Print output in terminal
 ################################
 
-
+# make executable in terminal by "chmod a+x nameOfFile.R"
 
 # Ask the user for an input and store it as a variable
 # get a DNA sequence from a FASTA file:
